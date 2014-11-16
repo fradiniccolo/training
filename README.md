@@ -1,6 +1,6 @@
-Author:  Marcello Traversi\n
-E-mail:  me@marcellotraversi.com\n
-website: marcellotraversi.com\n\n
+Author:  Marcello Traversi
+E-mail:  me@marcellotraversi.com
+website: marcellotraversi.com
 
-Training code from:\n
-- codewars.com\n
+Training code from:
+- codewars.com
