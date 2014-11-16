@@ -7,7 +7,7 @@ OS: OS X
 Author: Marcello Traversi
 E-mail: me@marcellotraversi.com
 Kyu: 8
-Tag: Fundamentals
+Tag: Fundamental
 Problem:
     For those of us who are not very familiar with Python,
     let's handle the very basic challenge of creating a class named Python.

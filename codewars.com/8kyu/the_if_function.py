@@ -7,7 +7,7 @@ OS: OS X
 Author: Marcello Traversi
 E-mail: me@marcellotraversi.com
 Kyu: 8
-Tag: Fundamentals
+Tag: Fundamental
 Problem:
     Who likes keywords? Nobody likes keywords, so why use them?
     You know what keyword I use too much? if! We should make

@@ -7,7 +7,7 @@ OS: OS X
 Author: Marcello Traversi
 E-mail: me@marcellotraversi.com
 Kyu: 8
-Tag: Fundamentals
+Tag: Fundamental
 Problem:
     Create a class Ghost
     Ghost objects are instantiated without any arguments.
