@@ -7,6 +7,7 @@ OS: OS X
 Author: Marcello Traversi
 E-mail: me@marcellotraversi.com
 Kyu: 7
+Tag: Fundamental
 Problem:
     Write a function named sumDigits which takes a number as input
     and returns the sum of the absolute value of each of
