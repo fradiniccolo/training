@@ -7,6 +7,7 @@ OS: OS X
 Author: Marcello Traversi
 E-mail: me@marcellotraversi.com
 Kyu: 8
+Tag: Fundamentals
 Problem:
     Create a function that takes a number as an argument and returns a grade based on that number.
     Anything greater than 1 or less than 0.6 should return "F"

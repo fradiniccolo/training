@@ -7,6 +7,7 @@ OS: OS X
 Author: Marcello Traversi
 E-mail: me@marcellotraversi.com
 Kyu: 8
+Tag: Fundamentals
 Problem:
     Correct this code, so that the greet function returns the expected value.
 Example:

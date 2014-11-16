@@ -7,6 +7,7 @@ OS: OS X
 Author: Marcello Traversi
 E-mail: me@marcellotraversi.com
 Kyu: 8
+Tag: Fundamentals
 Problem:
     Create a class Ball.
     Ball objects should accept one argument for "ball type" when instantiated.
