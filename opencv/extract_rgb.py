@@ -1,4 +1,17 @@
 #!/usr/bin/env python
+"""
+extract_rgb.py
+Language: python
+Version: 2.7.5
+OS: Linux Fedora20
+Requirements: opencv, gstreamer
+Author: Marcello Traversi
+E-mail: me@marcellotraversi.com
+Description: 
+	Extract R, G, B, RG, RB, GB channels
+	from a target video.
+Tag: Video processing
+"""
 import optparse
 import cv2
 import numpy
